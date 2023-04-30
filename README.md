@@ -1,6 +1,6 @@
 # AGHLoans
 ONLINE LOAN MANAGEMENT SYSTEM
-AGH LOANS AND SERVICES
+--- AGH LOANS AND SERVICES
 
 
 > I made a online loan management system which is easy better and quick for everyone. The main purpose of developing this project is to provide a customer to customer relationship. This system is designed to easily maintain the data of the loan customers specifically. This system is made to keep the records about the customers who have taken a loan from a customer. Even customer can apply for new loan accounts through online.
